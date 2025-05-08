@@ -1,13 +1,2 @@
-# Ignore environment variables
+node_modules
 .env
-
-# Node modules (not needed in Git)
-node_modules/
-
-# Logs
-*.log
-
-# OS-specific files
-.DS_Store
-
-
